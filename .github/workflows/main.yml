@@ -20,6 +20,6 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: docker.pkg.github.com/opcheese/action-exps/my-image:latest
+          tags: docker.pkg.github.com/opcheese/actionexps/my-image:latest
 
            
