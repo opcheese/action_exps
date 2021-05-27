@@ -23,5 +23,5 @@ jobs:
         with:
           push: true
           tags: |
-            docker.pkg.github.com/opcheese/action-exps/octo-image:${{ github.ref }}
+            docker.pkg.github.com/opcheese/action-exps/octo-image:v0.5
            
